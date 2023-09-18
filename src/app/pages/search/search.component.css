@@ -1,0 +1,21 @@
+button{
+    background-color: red;
+    color: #ffffff;
+}
+
+button:hover{
+    background-color: red;
+    color: #ffffff;
+}
+
+img{
+    width: 100%;
+}
+
+h5{
+    color: #ffffff;
+}
+
+p{
+    color: grey;
+}
